@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas VAN HAAREN</h1>
-<h3 align="center">Passionate about IT security, programming, electronics and open-source culture ❤️</h3>
+<h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤️</h3>
 
 - 🔭 I’m currently working on **freelance projects with Vue.js**
 

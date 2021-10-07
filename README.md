@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas VAN HAAREN</h1>
 <h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤️</h3>
 
-- 🔭 I’m currently working on **freelance projects with Vue.js**
+<!-- - 🔭 I’m currently working on **freelance projects with Vue.js** -->
 
-- 🌱 I’m currently learning **advanced concepts in operating systems and DevOps/Cloud tools**
+- 🌱 I’m currently learning **Cybersecurity concepts & DevOps/Cloud tools**
 
 - 📫 How to reach me **vanhaaren.lucas+dev@gmail.com**
 

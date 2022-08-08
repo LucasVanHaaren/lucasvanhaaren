@@ -6,9 +6,11 @@
   - **Network** architecture, protocols, appliances ...
   - **Pentesting** systems and networks
 
-- 🔭 I’m preparing to become a **C**ertified **K**ubernetes **A**dministrator
+- :trophy: I’m a [**C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
 
-- :innocent: I'm having fun with my raspberry Pi
+- 🔭 I'm currently preparing several certifications in the field of security and cloud (ex: eJPT, KCNA)
+
+- :innocent: I'm having fun with my raspberry Pi and NodeMCU
 
 - 📫 How to reach me **vanhaaren.lucas+dev@gmail.com**
 

@@ -2,13 +2,13 @@
 <h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤️</h3>
 
 - 🌱 I’m currently learning 
-  - **Cloud platforms tools** like Kubernetes, Terraform, Rancher, Helm, ...
+  - **Cloud platforms systems and tools** like Kubernetes, Terraform, Rancher, Helm, ...
   - **Network** architecture, protocols, appliances ...
   - **Pentesting** systems and networks
 
-- :trophy: I’m a [**C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
+- :trophy: I’m a [**K**ubernetes and **C**loud **N**ative **A**ssociate](https://www.credly.com/badges/c9f39185-8ce0-49a9-8149-552a12a427d9/public_url) and [**C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
 
-- 🔭 I'm currently preparing several certifications in the field of security and cloud (ex: eJPT, KCNA)
+- 🔭 I'm currently preparing the _eLearnSecurity_ Junior Penetration Tester (eJPT) Certification
 
 - :innocent: I'm having fun with my raspberry Pi and NodeMCU
 

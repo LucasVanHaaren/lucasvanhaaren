@@ -6,11 +6,11 @@
   - **Pentesting** systems and networks
 
 - :trophy: I’m certified
-  - [**K**ubernetes and **C**loud **N**ative **A**ssociate](https://www.credly.com/badges/c9f39185-8ce0-49a9-8149-552a12a427d9/public_url)
-  - [**C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
-  - [**J**unior **P**enetration **T**ester (eJPT Certification)](https://my.ine.com/certificate/d8dfcc2a-8790-4254-a5c8-aa797239a363)
+  - [**KCNA** - **K**ubernetes and **C**loud **N**ative **A**ssociate](https://www.credly.com/badges/c9f39185-8ce0-49a9-8149-552a12a427d9/public_url)
+  - [**CKA** - **C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
+  - [**eJPT** - **J**unior **P**enetration **T**ester](https://my.ine.com/certificate/d8dfcc2a-8790-4254-a5c8-aa797239a363)
 
-- 🔭 I'm currently preparing the *HackTheBox* **C**ertified **P**enetration **T**esting **S**pecialist (HTB CPTS) Certification
+- 🔭 I'm currently preparing the **HTB CPTS** - HackTheBox **C**ertified **P**enetration **T**esting **S**pecialist
 
 - :innocent: I'm having fun with my raspberry Pi and NodeMCU
 

@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lucas VAN HAAREN</h1>
-<h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤️</h3>
+<h1 align="center">Hi 👋, I'm vhash</h1>
+<h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤:rocket:</h3>
 
-- 🌱 I’m currently learning 
-  - **Network** architecture, protocols, appliances ...
-  - **Pentesting** systems and networks
-  - **Web security**
-  - **Binary** analysis and exploitation :hot_face:
+- 🌱 I’m currently focus my learning on 
+  - **Networking**
+  - **Pentesting**
+  - **Web security** and bug hunting
+  - **Reverse Engineering** and **Malware Analysis** :hot_face:
 
 - :trophy: I’m certified
   - [**KCNA** - **K**ubernetes and **C**loud **N**ative **A**ssociate](https://www.credly.com/badges/c9f39185-8ce0-49a9-8149-552a12a427d9/public_url)
@@ -14,14 +14,13 @@
 
 - 🔭 I'm currently preparing the **HTB CBBH** - HackTheBox **C**ertified **B**ug **B**ounty **H**unter
 
-- :innocent: I'm having fun with my raspberry Pi and NodeMCU
+- :innocent: I'm experimenting with my raspberry Pi, NodeMCU and my other homelab stuff
 
 <div align="center">
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/11005559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11005559" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas-vanhaaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-vanhaaren" height="30" width="40" /></a>
-<a href="https://medium.com/@vanhaaren.lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vanhaaren.lucas" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/185918" target="blank"><img align="center" src="https://media.glassdoor.com/sqll/3278909/hack-the-box-squarelogo-1593684696335.png" alt="185918" width="40" /></a>
 <a href="https://www.root-me.org/vhash" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="185918" width="40" /></a>
 <a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D0BAQEeapjRmGEU1Q/company-logo_200_200/0/1672208690374?e=1689811200&v=beta&t=Xjx7aNro1kfqjyiXglbD4j-M3FXmHBToAsVTOcwcEQI" alt="185918" width="40" /></a>

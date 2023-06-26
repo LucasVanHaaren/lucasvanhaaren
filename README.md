@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm vhash</h1>
 <h3 align="center">Passionate about Cybersecurity, programming, electronics and open-source culture ❤:rocket:</h3>
 
-- 🌱 I’m currently focus my learning on 
-  - **Networking**
-  - **Pentesting**
+- :pushpin: I’m currently focus my learning on 
   - **Web security** and bug hunting
   - **Reverse Engineering** and **Malware Analysis** :hot_face:
 
@@ -14,7 +12,8 @@
 
 - 🔭 I'm currently preparing the **HTB CBBH** - HackTheBox **C**ertified **B**ug **B**ounty **H**unter
 
-- :innocent: I'm experimenting with my raspberry Pi, NodeMCU and my other homelab stuff
+- 🧪 I'm experimenting with electronics, console hacking, 3D printing and my other homelab stuff
+
 
 <div align="center">
 <h3 align="center">Connect with me</h3>

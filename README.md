@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/11005559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11005559" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/185918" target="blank"><img align="center" src="https://app.hackthebox.com/images/HTB-favicon/favicon-32x32.png" alt="185918" width="40" /></a>
 <a href="https://www.root-me.org/vhash" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="185918" width="40" /></a>
-<a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D0BAQEeapjRmGEU1Q/company-logo_200_200/0/1672208690374?e=1689811200&v=beta&t=Xjx7aNro1kfqjyiXglbD4j-M3FXmHBToAsVTOcwcEQI" alt="185918" width="40" /></a>
+<a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1556211004782125057/4F1X9ri3_400x400.jpg" alt="185918" width="40" /></a>
 </p>
 </div>
 

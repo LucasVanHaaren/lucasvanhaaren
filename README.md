@@ -15,6 +15,12 @@
 
 - 🧪 I'm experimenting with electronics, console hacking, 3D printing and my other homelab stuff
 
+<div id="stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasVanHaaren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" />
+</div>
+
+---
+
 <div id="socials" align="center">
   <a href="https://stackoverflow.com/users/11005559" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" /></a>
   <a href="https://app.hackthebox.com/profile/185918" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" /></a>
@@ -22,8 +28,4 @@
     <!--
   <a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1556211004782125057/4F1X9ri3_400x400.jpg" alt="185918" width="40" /></a>
   -->
-</div>
-
-<div id="stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasVanHaaren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" />
 </div>

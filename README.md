@@ -1,4 +1,4 @@
-<div id="header" algin="center">
+<div id="header" align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=3000&pause=500&color=000000&center=true&vCenter=true&random=true&width=435&lines=I'm+an+Open-source+Lover;I'm+a+Cybersecurity+Noob;I'm+a+DevOps+Soldier;I'm+a+Linux+Ninja;I'm+a+CTF+Player;I'm+a+Bad+Developer" alt="" />
 </div>
 

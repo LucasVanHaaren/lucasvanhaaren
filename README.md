@@ -1,3 +1,7 @@
+<div id="header" algin="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=3000&pause=500&color=000000&center=true&vCenter=true&random=true&width=435&lines=Open-source+Lover;Cybersecurity+Noob;DevOps+Soldier;Linux+Ninja;CTF+Player;Bad+Developer" alt="" />
+</div>
+
 - :pushpin: I’m currently focus my learning on 
   - **Web security** and bug hunting
   - **Reverse Engineering** and **Malware Analysis** :hot_face:
@@ -11,15 +15,15 @@
 
 - 🧪 I'm experimenting with electronics, console hacking, 3D printing and my other homelab stuff
 
-
-<div align="center">
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/11005559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11005559" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/185918" target="blank"><img align="center" src="https://app.hackthebox.com/images/HTB-favicon/favicon-32x32.png" alt="185918" width="40" /></a>
-<a href="https://www.root-me.org/vhash" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="185918" width="40" /></a>
-<a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1556211004782125057/4F1X9ri3_400x400.jpg" alt="185918" width="40" /></a>
-</p>
+<div id="socials" align="center">
+  <a href="https://stackoverflow.com/users/11005559" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" /></a>
+  <a href="https://app.hackthebox.com/profile/185918" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" /></a>
+  <a href="https://www.root-me.org/vhash" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rootme.svg" /></a>
+    <!--
+  <a href="https://ozint.eu/ozinter/7834/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1556211004782125057/4F1X9ri3_400x400.jpg" alt="185918" width="40" /></a>
+  -->
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvanhaaren&show_icons=true&locale=en" alt="lucasvanhaaren" /></p>
+<div id="stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasVanHaaren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" />
+</div>

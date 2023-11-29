@@ -3,7 +3,7 @@
 </div>
 
 - :pushpin: I’m currently focus my learning on 
-  - **Web security** and bug hunting
+  - **Digital Forensics** and **Incident Response** :mag:
   - **Reverse Engineering** and **Malware Analysis** :hot_face:
 
 - :trophy: I’m certified
@@ -11,7 +11,7 @@
   - [**CKA** - **C**ertified **K**ubernetes **A**dministrator](https://www.credly.com/badges/2de10599-780b-4fdc-bb96-010e23e6ab31/public_url)
   - [**eJPT** - **J**unior **P**enetration **T**ester](https://my.ine.com/certificate/d8dfcc2a-8790-4254-a5c8-aa797239a363)
 
-- 🔭 I'm currently preparing the **HTB CBBH** - HackTheBox **C**ertified **B**ug **B**ounty **H**unter
+- 🔭 I'm currently preparing the **HTB CDSA** - HackTheBox **C**ertified **D**efensive **S**ecurity **A**nalyst
 
 - 🧪 I'm experimenting with electronics, console hacking, 3D printing and my other homelab stuff
 

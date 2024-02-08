@@ -16,7 +16,7 @@
 - 🧪 I'm experimenting with electronics, console hacking, 3D printing and my other homelab stuff
 
 <div id="stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasVanHaaren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasVanHaaren&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&locale=en&hide_rank=true&show=discussions_started&hide_title=true" />
 </div>
 
 ---
